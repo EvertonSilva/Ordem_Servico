@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 
-//$host = "fdb22.awardspace.net";
-//$username = "3156816_servicodb";
+//$host = "******";
+//$username = "******";
 //$pass  = "Crw671500";
-//$dbname = "3156816_servicodb";
+//$dbname = "*****";
 $host = "localhost";
 $username = "root";
 $pass = "root";

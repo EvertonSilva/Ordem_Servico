@@ -1,0 +1,17 @@
+
+Sistema de abertura e atendimento de chamados da a área de ti e atendimento de campo com
+geomapeamento dos clientes cadastrados
+Sistema em fase de desenvolvimento, 
+faltando algumas funcionalidades a serem finalizadas
+
+nesse projeto foi utilizado:
+
+PHP-PDO
+JS
+CSS
+googlemaps
+banco mysql
+
+endereco:
+
+www.foodsti.dx.am
