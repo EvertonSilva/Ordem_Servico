@@ -2,7 +2,7 @@
 
 //$host = "******";
 //$username = "******";
-//$pass  = "Crw671500";
+//$pass  = "******";
 //$dbname = "*****";
 $host = "localhost";
 $username = "root";
